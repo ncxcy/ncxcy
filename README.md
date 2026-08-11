@@ -6,7 +6,6 @@
 
 <br>
 
-![line](https://img.shields.io/badge/-────────────────────────-8757e0?style=flat-square)
 
 </div>
 
