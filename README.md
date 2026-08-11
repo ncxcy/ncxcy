@@ -28,6 +28,14 @@ c / c++ dev, reverse engineer, 16 yo from Slovenia
 
 </blockquote>
 
+<blockquote>
+<kbd><code>socials                                                                  </code></kbd>
+<br><br>
+
+telegram: @ncxcy 
+
+</blockquote>
+
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
