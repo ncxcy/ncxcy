@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=c+%2F+c%2B%2B+dev;reverse+engineer;from+slovenia&font=Fira%20Code&center=true&width=440&height=45&color=9d4edd&vCenter=true&size=22" alt="typing animation">
 
-<br>
-
-
 </div>
 
 <br>
@@ -27,13 +24,9 @@ Free, open-source iCloud activation lock bypass tool.
 <kbd><code>about                                                                  </code></kbd>
 <br><br>
 
-c / c++ dev, reverse engineer, 19 yo from Slovenia
+c / c++ dev, reverse engineer, 16 yo from Slovenia
 
 </blockquote>
-
-<blockquote>
-<kbd><code>stack                                                                  </code></kbd>
-<br><br>
 
 <div align="center">
 
@@ -43,5 +36,3 @@ c / c++ dev, reverse engineer, 19 yo from Slovenia
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=9d4edd)
 
 </div>
-
-</blockquote>
