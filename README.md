@@ -1,8 +1,12 @@
 <div align="center">
 
-# sup, im apex 👋
+# sup, im apex
 
-<img src="https://readme-typing-svg.demolab.com/?lines=c+%2F+c%2B%2B+dev;reverse+engineer;from+slovenia+%F0%9F%87%B8%F0%9F%87%AE&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" alt="typing animation">
+<img src="https://readme-typing-svg.demolab.com/?lines=c+%2F+c%2B%2B+dev;reverse+engineer;from+slovenia&font=Fira%20Code&center=true&width=440&height=45&color=9d4edd&vCenter=true&size=22" alt="typing animation">
+
+<br>
+
+![line](https://img.shields.io/badge/-────────────────────────-8757e0?style=flat-square)
 
 </div>
 
@@ -24,7 +28,7 @@ Free, open-source iCloud activation lock bypass tool.
 <kbd><code>about                                                                  </code></kbd>
 <br><br>
 
-c / c++ dev, reverse engineer 🇸🇮
+c / c++ dev, reverse engineer, based in Slovenia
 
 </blockquote>
 
@@ -32,9 +36,13 @@ c / c++ dev, reverse engineer 🇸🇮
 <kbd><code>stack                                                                  </code></kbd>
 <br><br>
 
+<div align="center">
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-1a1a1a?style=for-the-badge)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=9d4edd)
+
+</div>
 
 </blockquote>
