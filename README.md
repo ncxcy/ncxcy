@@ -1,4 +1,4 @@
-# sup, im ncxcy 🔧
+# sup, im apex
 
 <blockquote><kbd><code>projects                                                               </code>
 
