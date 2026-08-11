@@ -27,7 +27,7 @@ Free, open-source iCloud activation lock bypass tool.
 <kbd><code>about                                                                  </code></kbd>
 <br><br>
 
-c / c++ dev, reverse engineer, based in Slovenia
+c / c++ dev, reverse engineer, 19 yo from Slovenia
 
 </blockquote>
 
