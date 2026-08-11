@@ -1,16 +1,23 @@
-## Hi there 👋
+# sup, im ncxcy 🔧
 
-<!--
-**ncxcy/ncxcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<blockquote><kbd><code>projects                                                               </code>
 
-Here are some ideas to get you started:
+**[HashPee](https://github.com/ncxcy/HashPee)** — A command-line file encryption tool written in C using Argon2id and XChaCha20-Poly1305.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[tr4mpass](https://github.com/ncxcy/tr4mpass)** *(fork)* — Free, open-source iCloud activation lock bypass tool.
+
+</kbd></blockquote>
+
+<blockquote><kbd><code>about                                                                  </code>
+
+c / c++ dev, reverse engineer 🇸🇮
+
+</kbd></blockquote>
+
+<blockquote><kbd><code>stack                                                                  </code>
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</kbd></blockquote>
