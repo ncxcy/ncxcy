@@ -2,7 +2,7 @@
 
 # sup, im apex
 
-<img src="https://readme-typing-svg.demolab.com/?lines=c+%2F+c%2B%2B+dev;reverse+engineer;from+slovenia&font=Fira%20Code&center=true&width=440&height=45&color=9d4edd&vCenter=true&size=22" alt="typing animation">
+<img src="https://readme-typing-svg.demolab.com/?lines=c+%2F+c%2B%2B+dev;reverse+engineer&font=Fira%20Code&center=true&width=440&height=45&color=4a0145&vCenter=true&size=22" alt="typing animation">
 
 </div>
 
