@@ -15,8 +15,6 @@
 **[HashPee](https://github.com/ncxcy/HashPee)**
 A command-line file encryption tool written in C using Argon2id and XChaCha20-Poly1305.
 
-**[tr4mpass](https://github.com/ncxcy/tr4mpass)** <sub>(fork)</sub>
-Free, open-source iCloud activation lock bypass tool.
 
 </blockquote>
 
