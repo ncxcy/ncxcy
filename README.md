@@ -22,7 +22,7 @@ A command-line file encryption tool written in C using Argon2id and XChaCha20-Po
 <kbd><code>about                                                                  </code></kbd>
 <br><br>
 
-c / c++ developer, reverse engineer and bug hunter
+c / c++ developer, reverse engineer and bughunter
 
 </blockquote>
 
