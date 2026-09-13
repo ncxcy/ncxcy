@@ -11,6 +11,9 @@
 <blockquote>
 <kbd><code>projects                                                               </code></kbd>
 <br><br>
+
+**[A15 SecureROM list of vulnerabilities](https://github.com/ncxcy/A15-SECUREROM-VULNS)**
+List of vulnerabilities on SecureROM A15 Bionic
   
 **[A14 - A16 iBoot DFU PoC](https://github.com/ncxcy/A14-A16-iBoot-DFU-PoC)**
 PoC for iBoot dfu jump table dispatch and sep vuln map (REMOVED)
