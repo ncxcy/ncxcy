@@ -11,6 +11,9 @@
 <blockquote>
 <kbd><code>projects                                                               </code></kbd>
 <br><br>
+  
+**[iOS 26.5 mobileactivationd vulnerabilities](https://github.com/ncxcy/iOS-26.5-mobileactivationd-vulns)**
+List of vulnerabilities of mobileactivationd on iOS 26.5 (NO PoC, published only as RESEARCH!)
 
 **[A15 SecureROM list of vulnerabilities](https://github.com/ncxcy/A15-SECUREROM-VULNS)**
 List of vulnerabilities on SecureROM A15 Bionic
