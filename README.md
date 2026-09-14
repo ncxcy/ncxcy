@@ -6,6 +6,11 @@
 
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ncxcy?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ncxcy?style=social" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=ncxcy&color=blue" alt="Profile views" />
+</p>
 <br>
 
 <blockquote>
