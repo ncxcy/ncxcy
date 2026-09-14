@@ -31,7 +31,7 @@ A command-line file encryption tool written in C using Argon2id and XChaCha20-Po
 <kbd><code>about                                                                  </code></kbd>
 <br><br>
 
-Bughunter & security researcher, developer and reverse engineer, more focused on hardware stuff and on goldensrc engines 
+Bughunter & security researcher, developer and reverse engineer, more focused on hardware stuff and on iOS & goldensrc engines 
 
 </blockquote>
 
