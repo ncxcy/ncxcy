@@ -16,7 +16,10 @@
 <blockquote>
 <kbd><code>projects                                                               </code></kbd>
 <br><br>
-  
+
+**[iOS 26.5 lockdownd vulnerabilities](https://github.com/ncxcy/iOS-26.5-lockdownd-vulns)**
+List of vulnerabilities of lockdownd on iOS 26.5
+
 **[iOS 26.5 mobileactivationd vulnerabilities](https://github.com/ncxcy/iOS-26.5-mobileactivationd-vulns)**
 List of vulnerabilities of mobileactivationd on iOS 26.5 (NO PoC!)
 
