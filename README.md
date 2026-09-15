@@ -29,6 +29,9 @@ List of vulnerabilities on SecureROM A15 Bionic
 **[A14 - A16 iBoot DFU PoC](https://github.com/ncxcy/A14-A16-iBoot-DFU-PoC)**
 PoC for iBoot dfu jump table dispatch and sep vuln map (REMOVED)
 
+**[Pink.rs EPG exporter](https://github.com/ncxcy/pink.rs-epg-downloader)**
+Pink Television EPG exporter
+
 **[HashPee](https://github.com/ncxcy/HashPee)**
 A command-line file encryption tool written in C using Argon2id and XChaCha20-Poly1305.
 
@@ -39,7 +42,7 @@ A command-line file encryption tool written in C using Argon2id and XChaCha20-Po
 <kbd><code>about                                                                  </code></kbd>
 <br><br>
 
-Bughunter & security researcher, developer and reverse engineer, more focused on hardware stuff and on iOS & goldensrc engines 
+Bughunter & security researcher, developer and reverse engineer, sometimes messing with DRM stuff and more focused on hardware stuff and iOS & goldensrc engines 
 
 </blockquote>
 
