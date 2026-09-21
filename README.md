@@ -17,6 +17,9 @@
 <kbd><code>projects                                                               </code></kbd>
 <br><br>
 
+**[OpenSource linux drivers for M4 SoC](https://github.com/ncxcy/agxopen-dev)**
+An OpenSource linux drivers for M4 SoC (in development)
+
 **[iOS 26.5 lockdownd vulnerabilities](https://github.com/ncxcy/iOS-26.5-lockdownd-vulns)**
 List of vulnerabilities of lockdownd on iOS 26.5
 
