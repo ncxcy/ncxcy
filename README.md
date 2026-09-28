@@ -16,6 +16,9 @@
 <blockquote>
 <kbd><code>projects                                                               </code></kbd>
 <br><br>
+  
+**[Collection of OTAIDs](https://github.com/ncxcy/KEYS)**
+Database of OTAIDs and firmware encryption keys for LG webOS, MediaTek, MStar and other TV platforms dumped from SoC
 
 **[OpenSource linux drivers for M4 SoC](https://github.com/ncxcy/agxopen-dev)**
 An OpenSource linux drivers for M4 SoC (in development)
