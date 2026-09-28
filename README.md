@@ -45,7 +45,7 @@ A command-line file encryption tool written in C using Argon2id and XChaCha20-Po
 <kbd><code>about                                                                  </code></kbd>
 <br><br>
 
-Bughunter & security researcher, developer and reverse engineer, sometimes messing with DRM stuff and more focused on hardware stuff and iOS & goldensrc engines 
+Bughunter & developer and reverse engineer, sometimes messing with DRM stuff and more focused on hardware stuff and iOS & goldensrc engines 
 
 </blockquote>
 
