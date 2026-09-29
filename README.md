@@ -17,7 +17,7 @@
 <kbd><code>projects                                                               </code></kbd>
 <br><br>
 
-**[Unshackle non premium services](https://github.com/ncxcy/Unshackle-Services)**  
+**[Unshackle non premium services](https://github.com/ncxcy/Unshackle-Services)** 
 A set of non premium services for Unshackle
 
 **[Collection of OTAIDs](https://github.com/ncxcy/KEYS)**
