@@ -16,7 +16,10 @@
 <blockquote>
 <kbd><code>projects                                                               </code></kbd>
 <br><br>
-  
+
+**[Unshackle non premium services](https://github.com/ncxcy/Unshackle-Services)**  
+A set of non premium services for Unshackle
+
 **[Collection of OTAIDs](https://github.com/ncxcy/KEYS)**
 Database of OTAIDs and firmware encryption keys dumped from SoC
 
@@ -39,7 +42,7 @@ PoC for iBoot dfu jump table dispatch and sep vuln map (REMOVED)
 Pink Television EPG exporter
 
 **[HashPee](https://github.com/ncxcy/HashPee)**
-A command-line file encryption tool written in C using Argon2id and XChaCha20-Poly1305.
+A command-line file encryption tool written in C using Argon2id and XChaCha20-Poly1305
 
 
 </blockquote>
