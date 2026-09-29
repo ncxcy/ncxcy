@@ -17,6 +17,9 @@
 <kbd><code>projects                                                               </code></kbd>
 <br><br>
 
+**[Lib to decrypt StreamFab API requests](https://github.com/ncxcy/Streamfab)**
+Simple C++ library to decrypt ModKey values used to authorize StreamFab API requests.
+
 **[Unshackle non premium services](https://github.com/ncxcy/Unshackle-Services)** 
 A set of non premium services for Unshackle
 
