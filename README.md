@@ -70,6 +70,6 @@ telegram: @ncxcy
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=9d4edd)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=870012)
 
 </div>
