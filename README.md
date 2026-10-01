@@ -45,7 +45,7 @@ PoC for iBoot dfu jump table dispatch and sep vuln map (REMOVED)
 Pink Television EPG exporter
 
 **[HashPee](https://github.com/ncxcy/HashPee)**
-A command-line file encryption tool written in C using Argon2id and XChaCha20-Poly1305
+A command line file encryption tool written in C using Argon2id and XChaCha20 Poly1305
 
 
 </blockquote>
